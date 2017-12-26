@@ -40,8 +40,8 @@ local AsteroidRespawn = {
 	-- configuration settings --
 	--------
 
-	Timer  = 43200, -- asteroids respawn time in seconds
-	Drift  = 7200,  -- asteroid respawn randomiser, should be smaller than Timer
+	Timer  = 5*3600, -- asteroids respawn time in seconds
+	Drift  = 1*3600,  -- asteroid respawn randomiser, should be smaller than Timer
 
 	--------
 	-- not config setting dont fuck with these --
