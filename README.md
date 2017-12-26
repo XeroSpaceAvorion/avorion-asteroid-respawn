@@ -2,7 +2,7 @@
 Note; most of the text below is still applicable,
 with the notable exception that the script is now automatically called from all existing sector types for which it makes sense.
 
-This means that calling the script manually is absolutely not necessary, and is in fact can be considered harmless.
+This means that calling the script manually is absolutely not necessary, can in fact can be considered harmful!
 
 Good luck modding, Regards, - Joeppie.
 
