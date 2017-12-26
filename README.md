@@ -1,3 +1,11 @@
+
+Note; most of the text below is still applicable,
+with the notable exception that the script is now automatically called from all existing sector types for which it makes sense.
+
+This means that calling the script manually is absolutely not necessary, and is in fact can be considered harmless.
+
+Good luck modding, Regards, - Joeppie.
+
 # Avorion Asteroid Respawner
 
 Respawns asteroids after mining. By default they respawn every twelve hours give
